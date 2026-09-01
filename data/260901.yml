@@ -1,0 +1,58 @@
+about:
+  description: The lazier way to manage everything docker
+  license: MIT
+  homepage: 
+  head: 7e7aadc
+  archived: false
+  latestVersion: v0.25.2
+  collectedAt: 2026-09-01T05:37:19Z
+timeline:
+  created: 2019-05-18
+  lastCommit: 2026-04-19
+  lastRelease: 2026-04-19
+popularity:
+  star: 52686
+  watcher: 282
+  fork: 1686
+  release: 47
+  contributor: 79
+  pullRequest: 167
+  issue: 416
+language:
+  Go: 371058
+  Shell: 3677
+  Dockerfile: 2261
+totalLine: 376996
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 0
+    openPR: 5
+    closedIssue: 0
+    openIssue: 4
+    commit: 0
+  last90d:
+    since: 2026-06-03
+    release: 0
+    mergedPR: 0
+    openPR: 16
+    closedIssue: 0
+    openIssue: 7
+    commit: 0
+  last180d:
+    since: 2026-03-05
+    release: 2
+    mergedPR: 4
+    openPR: 29
+    closedIssue: 2
+    openIssue: 17
+    commit: 7
+  last360d:
+    since: 2025-09-06
+    release: 5
+    mergedPR: 9
+    openPR: 56
+    closedIssue: 15
+    openIssue: 34
+    commit: 21
