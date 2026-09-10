@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.25.2"
   latestRelease: "v0.25.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:31:24Z
+  collectedAt: 2026-09-10T22:26:20Z
 timeline:
   created: 2019-05-18
   lastCommit: 2026-04-19
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-04-19
   lastPrerelease: 
 popularity:
-  star: 52779
+  star: 52778
   watcher: 283
   fork: 1684
   release: 47
@@ -85,7 +85,7 @@ total:
   commit: 892
 ---
 path: /home/runner/.x-repo/github.com/jesseduffield/lazydocker
-collectedAt: 2026-09-10T21:31:27Z
+collectedAt: 2026-09-10T22:26:22Z
 loc:
   Go:
     code: 294245
