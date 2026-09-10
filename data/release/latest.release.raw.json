@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1232,
       "digest": "sha256:2658d90cbb929662b06210c45eefbdfd32517c906dafd543527b9c06220aa4a4",
-      "download_count": 8116,
+      "download_count": 8125,
       "created_at": "2026-04-19T02:54:18Z",
       "updated_at": "2026-04-19T02:54:19Z",
       "browser_download_url": "https://github.com/jesseduffield/lazydocker/releases/download/v0.25.2/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4747624,
       "digest": "sha256:4a54d7b4abdf255b2bce9806641eac5568d5b7fbc820c1b5d3f9e34ea1367d60",
-      "download_count": 80975,
+      "download_count": 80985,
       "created_at": "2026-04-19T02:54:18Z",
       "updated_at": "2026-04-19T02:54:18Z",
       "browser_download_url": "https://github.com/jesseduffield/lazydocker/releases/download/v0.25.2/lazydocker_0.25.2_Darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4548216,
       "digest": "sha256:005c38b685aaa557e7d646d83a3dadb5024340eeed8c6a2e1949eee6f530de23",
-      "download_count": 38343,
+      "download_count": 38384,
       "created_at": "2026-04-19T02:54:17Z",
       "updated_at": "2026-04-19T02:54:18Z",
       "browser_download_url": "https://github.com/jesseduffield/lazydocker/releases/download/v0.25.2/lazydocker_0.25.2_Linux_arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4934171,
       "digest": "sha256:0d9dbfc26068b218e7ed84b104748cadc6e3cf733c0afd35465306fb39b9523c",
-      "download_count": 152098,
+      "download_count": 152206,
       "created_at": "2026-04-19T02:54:18Z",
       "updated_at": "2026-04-19T02:54:18Z",
       "browser_download_url": "https://github.com/jesseduffield/lazydocker/releases/download/v0.25.2/lazydocker_0.25.2_Linux_x86_64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4597651,
       "digest": "sha256:25a4f4708b7f73a0aeadde13c8d7a172baa5a1ebabccb062765c28ae93029903",
-      "download_count": 1142,
+      "download_count": 1144,
       "created_at": "2026-04-19T02:54:17Z",
       "updated_at": "2026-04-19T02:54:17Z",
       "browser_download_url": "https://github.com/jesseduffield/lazydocker/releases/download/v0.25.2/lazydocker_0.25.2_Windows_arm64.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5057965,
       "digest": "sha256:facae8869c1bf144468191c563002162273a2c2761f052659170530cae3fa8a9",
-      "download_count": 7913,
+      "download_count": 7917,
       "created_at": "2026-04-19T02:54:17Z",
       "updated_at": "2026-04-19T02:54:18Z",
       "browser_download_url": "https://github.com/jesseduffield/lazydocker/releases/download/v0.25.2/lazydocker_0.25.2_Windows_x86_64.zip"

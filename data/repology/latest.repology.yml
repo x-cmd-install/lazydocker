@@ -1,0 +1,601 @@
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: lazydocker
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.25.2
+  origversion: 0.25.2-1
+  status: newest
+  summary: A simple terminal UI for docker and docker-compose, written in Go with the gocui library.
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: lazydocker
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.25.2
+  origversion: 0.25.2-1
+  status: newest
+  summary: A simple terminal UI for docker and docker-compose, written in Go with the gocui library.
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: lazydocker
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.25.2
+  origversion: 0.25.2-1
+  status: newest
+  summary: A simple terminal UI for docker and docker-compose, written in Go with the gocui library.
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: lazydocker
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.25.2
+  origversion: 0.25.2-1
+  status: newest
+  summary: A simple terminal UI for docker and docker-compose, written in Go with the gocui library.
+  licenses:
+    - MIT
+- repo: wakemeops
+  subrepo: devops
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.19.0
+  origversion: 0.19.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.18.1
+  origversion: 0.18.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: alpine_3_17
+  subrepo: community
+  srcname: lazydocker
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.20.0
+  origversion: 0.20.0-r4
+  status: outdated
+  summary: Simple terminal UI for both docker and docker-compose
+  maintainers:
+    - thomas@tuxpeople.org
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: lazydocker
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.20.0
+  origversion: 0.20.0-r9
+  status: outdated
+  summary: Simple terminal UI for both docker and docker-compose
+  maintainers:
+    - thomas@tuxpeople.org
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: lazydocker
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.23.1
+  origversion: 0.23.1-r3
+  status: outdated
+  summary: Simple terminal UI for both docker and docker-compose
+  maintainers:
+    - thomas@tuxpeople.org
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: lazydocker
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.23.1
+  origversion: 0.23.1-r5
+  status: outdated
+  summary: Simple terminal UI for both docker and docker-compose
+  maintainers:
+    - thomas@tuxpeople.org
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: lazydocker
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.23.3
+  origversion: 0.23.3-r7
+  status: outdated
+  summary: Simple terminal UI for both docker and docker-compose
+  maintainers:
+    - thomas@tuxpeople.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: lazydocker
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.23.3
+  origversion: 0.23.3-r12
+  status: outdated
+  summary: Simple terminal UI for both docker and docker-compose
+  maintainers:
+    - thomas@tuxpeople.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: lazydocker
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.24.2
+  origversion: 0.24.2-r5
+  status: outdated
+  summary: Simple terminal UI for both docker and docker-compose
+  maintainers:
+    - thomas@tuxpeople.org
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: lazydocker
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.24.4
+  origversion: 0.24.4-r5
+  status: outdated
+  summary: Simple terminal UI for both docker and docker-compose
+  maintainers:
+    - thomas@tuxpeople.org
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: lazydocker
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.25.2
+  origversion: 0.25.2-r1
+  status: newest
+  summary: Simple terminal UI for both docker and docker-compose
+  maintainers:
+    - thomas@tuxpeople.org
+  licenses:
+    - MIT
+- repo: altsisyphus
+  srcname: lazydocker
+  binnames:
+    - lazydocker
+    - lazydocker-debuginfo
+  visiblename: lazydocker
+  version: 0.25.2
+  origversion: 0.25.2-alt1
+  status: newest
+  summary: The lazier way to manage everything docker
+  maintainers:
+    - nash@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Monitoring
+- repo: arch
+  subrepo: extra
+  srcname: lazydocker
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.25.2
+  origversion: 0.25.2-1
+  status: newest
+  summary: A simple terminal UI for docker and docker-compose, written in Go with the gocui library.
+  licenses:
+    - MIT
+- repo: aur
+  srcname: lazydocker-bin
+  binname: lazydocker-bin
+  visiblename: lazydocker-bin
+  version: 0.25.2
+  origversion: 0.25.2-1
+  status: newest
+  summary: A simple terminal UI for docker and docker-compose, written in Go with the gocui library.
+  maintainers:
+    - bergalath@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: lazydocker-git
+  binname: lazydocker-git
+  visiblename: lazydocker-git
+  version: 0.9.r0.g10617da
+  origversion: 0.9.r0.g10617da-1
+  status: rolling
+  summary: A simple terminal UI for docker and docker-compose, written in Go with the gocui library.
+  maintainers:
+    - mswift@aur
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: lazydocker
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.25.2
+  origversion: 0.25.2-r1
+  status: newest
+  summary: TUI for docker resource visualization and management
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: lazydocker
+  binname: lazydocker-doc
+  visiblename: lazydocker-doc
+  version: 0.25.2
+  origversion: 0.25.2-r1
+  status: newest
+  summary: TUI for docker resource visualization and management (documentation)
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.23.3
+  origversion: null
+  status: outdated
+  summary: A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
+- repo: homebrew
+  srcname: lazydocker
+  visiblename: lazydocker
+  version: 0.25.2
+  origversion: null
+  status: newest
+  summary: Lazier way to manage everything docker
+- repo: homebrew
+  srcname: lazydocker
+  visiblename: lazydocker
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Lazier way to manage everything docker
+- repo: macports
+  srcname: devel/lazydocker
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.25.2
+  origversion: null
+  status: newest
+  summary: The lazy way to manage everything docker
+  maintainers:
+    - nicolaiskye@github
+  licenses:
+    - MIT
+  categories:
+    - devel
+- repo: mageia_10
+  subrepo: core/release
+  srcname: lazydocker
+  binnames:
+    - lazydocker
+  visiblename: lazydocker
+  version: 0.23.1
+  origversion: 0.23.1-2.mga10
+  status: outdated
+  summary: Lazier way to manage everything docker
+  licenses:
+    - MIT
+  categories:
+    - System/Configuration
+- repo: mageia_cauldron
+  subrepo: core/release
+  srcname: lazydocker
+  binnames:
+    - lazydocker
+  visiblename: lazydocker
+  version: 0.23.1
+  origversion: 0.23.1-2.mga10
+  status: outdated
+  summary: Lazier way to manage everything docker
+  licenses:
+    - MIT
+  categories:
+    - System/Configuration
+- repo: nix_stable_24_05
+  srcname: lazydocker
+  visiblename: lazydocker
+  version: 0.23.1
+  origversion: null
+  status: outdated
+  summary: A simple terminal UI for both docker and docker-compose
+  maintainers:
+    - nixpkgs@raphael.dasgupta.ch
+    - brightone@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: lazydocker
+  visiblename: lazydocker
+  version: 0.23.3
+  origversion: null
+  status: outdated
+  summary: Simple terminal UI for both docker and docker-compose
+  maintainers:
+    - nixpkgs@raphael.dasgupta.ch
+    - brightone@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: lazydocker
+  visiblename: lazydocker
+  version: 0.24.1
+  origversion: null
+  status: outdated
+  summary: Simple terminal UI for both docker and docker-compose
+  maintainers:
+    - nixpkgs@raphael.dasgupta.ch
+    - brightone@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: lazydocker
+  visiblename: lazydocker
+  version: 0.24.2
+  origversion: null
+  status: outdated
+  summary: Simple terminal UI for both docker and docker-compose
+  maintainers:
+    - nixpkgs@raphael.dasgupta.ch
+    - brightone@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: lazydocker
+  visiblename: lazydocker
+  version: 0.25.2
+  origversion: null
+  status: newest
+  summary: Simple terminal UI for both docker and docker-compose
+  maintainers:
+    - nixpkgs@raphael.dasgupta.ch
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: lazydocker
+  visiblename: lazydocker
+  version: 0.25.2
+  origversion: null
+  status: newest
+  summary: Simple terminal UI for both docker and docker-compose
+  maintainers:
+    - nixpkgs@raphael.dasgupta.ch
+  licenses:
+    - MIT
+- repo: openmandriva_rolling
+  subrepo: main/release
+  srcname: lazydocker
+  binnames:
+    - lazydocker
+  visiblename: lazydocker
+  version: 0.24.4
+  origversion: 0.24.4-1
+  status: outdated
+  summary: The lazier way to manage everything docker
+  maintainers:
+    - azure.grade9592@eagereverest.com
+  licenses:
+    - MIT
+  categories:
+    - System/Configuration/Other
+- repo: openmandriva_cooker
+  subrepo: main/release
+  srcname: lazydocker
+  binnames:
+    - lazydocker
+  visiblename: lazydocker
+  version: 0.24.4
+  origversion: 0.24.4-1
+  status: outdated
+  summary: The lazier way to manage everything docker
+  maintainers:
+    - azure.grade9592@eagereverest.com
+  licenses:
+    - MIT
+  categories:
+    - System/Configuration/Other
+- repo: pacstall
+  srcname: lazydocker-bin
+  binname: lazydocker-bin
+  visiblename: lazydocker-bin
+  version: 0.25.2
+  origversion: 0.25.2-1
+  status: newest
+  summary: The lazier way to manage everything docker
+  maintainers:
+    - villamorrd@students.nu-moa.edu.ph
+- repo: scoop
+  subrepo: main
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.25.2
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: stalix
+  srcname: bin/lazy/docker
+  binname: bin/lazy/docker
+  visiblename: bin/lazy/docker
+  version: 0.25.2
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix_dev
+  srcname: bin/lazy/docker
+  binname: bin/lazy/docker
+  visiblename: bin/lazy/docker
+  version: 0.25.2
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: t2
+  srcname: lazydocker
+  visiblename: lazydocker
+  version: 0.25.2
+  origversion: null
+  status: newest
+  summary: The lazier way to manage everything docker
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - MIT
+  categories:
+    - extra/tool
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: lazydocker
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.25.2
+  origversion: 0.25.2_1
+  status: newest
+  summary: Simple terminal UI for docker and docker-compose, written in Go
+  maintainers:
+    - orphan@voidlinux.org
+  licenses:
+    - MIT
+- repo: wakemeops
+  subrepo: devops
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.25.2
+  origversion: 0.25.2-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.25.0
+  origversion: 0.25.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.24.4
+  origversion: 0.24.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.24.3
+  origversion: 0.24.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.24.2
+  origversion: 0.24.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.24.1
+  origversion: 0.24.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.23.3
+  origversion: 0.23.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.23.1
+  origversion: 0.23.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.21.1
+  origversion: 0.21.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.21.0
+  origversion: 0.21.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.20.0
+  origversion: 0.20.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.17.1
+  origversion: 0.17.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: lazydocker
+  visiblename: lazydocker
+  version: "0.12"
+  origversion: 0.12-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
