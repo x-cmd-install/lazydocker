@@ -31,8 +31,8 @@ Overall score: **3.2 / 10**
 Lowest-scoring checks:
 
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Code-Review** (3/10) — Found 3/10 approved changesets -- score normalized to 3
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 52,817 · **Forks**: 1,684 · **Open issues**: 418 · **Contributors**: 79
+- **Stars**: 52,829 · **Forks**: 1,683 · **Open issues**: 418 · **Contributors**: 79
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 4 | 1 | 4 | 0 |
-| last60d | 2026-07-16 | 0 | 0 | 10 | 1 | 5 | 0 |
-| 90d | 2026-06-16 | 0 | 0 | 16 | 1 | 8 | 0 |
-| last180d | 2026-03-18 | 1 | 2 | 28 | 2 | 17 | 4 |
-| 360d | 2025-09-19 | 5 | 9 | 57 | 16 | 35 | 21 |
-| last720d | 2024-09-24 | 7 | 11 | 79 | 27 | 74 | 44 |
+| 30d | 2026-08-16 | 0 | 0 | 4 | 1 | 4 | 0 |
+| last60d | 2026-07-17 | 0 | 0 | 10 | 1 | 5 | 0 |
+| 90d | 2026-06-17 | 0 | 0 | 16 | 1 | 8 | 0 |
+| last180d | 2026-03-19 | 1 | 2 | 28 | 1 | 17 | 4 |
+| 360d | 2025-09-20 | 5 | 9 | 57 | 16 | 35 | 21 |
+| last720d | 2024-09-25 | 7 | 11 | 79 | 27 | 74 | 44 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for lazydocker lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:44:39Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:34:36Z._
