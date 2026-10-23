@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 53,181 · **Forks**: 1,695 · **Open issues**: 423 · **Contributors**: 79
+- **Stars**: 53,195 · **Forks**: 1,696 · **Open issues**: 423 · **Contributors**: 79
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 5 | 0 | 4 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 8 | 1 | 8 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 15 | 1 | 10 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 27 | 1 | 13 | 0 |
-| 360d | 2025-10-27 | 5 | 9 | 56 | 14 | 36 | 18 |
-| last720d | 2024-11-01 | 7 | 11 | 83 | 27 | 75 | 44 |
+| 30d | 2026-09-23 | 0 | 0 | 5 | 0 | 4 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 8 | 1 | 8 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 15 | 1 | 10 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 27 | 1 | 13 | 0 |
+| 360d | 2025-10-28 | 5 | 9 | 56 | 14 | 36 | 18 |
+| last720d | 2024-11-02 | 7 | 11 | 83 | 27 | 75 | 44 |
 
 ## Release assets
 
@@ -82,6 +82,18 @@ Lowest-scoring checks:
 | [lazydocker_0.25.2_Windows_x86.zip](https://github.com/jesseduffield/lazydocker/releases/download/v0.25.2/lazydocker_0.25.2_Windows_x86.zip) | 4.6 MiB | `native/win/x64` |
 | [lazydocker_0.25.2_Windows_x86_64.zip](https://github.com/jesseduffield/lazydocker/releases/download/v0.25.2/lazydocker_0.25.2_Windows_x86_64.zip) | 4.8 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **60** distros on [repology.org](https://repology.org/project/lazydocker). **25** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.25.2` | ✅ latest |
+| Homebrew | `0.25.2` | ✅ latest |
+| Nix unstable | `0.25.2` | ✅ latest |
+| Void | `0.25.2` | ✅ latest |
+| Alpine edge | `0.25.2` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for lazydocker lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lazydocker` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +103,4 @@ Install metadata for lazydocker lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:55:23Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:03:09Z._
