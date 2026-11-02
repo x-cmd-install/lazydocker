@@ -11,6 +11,18 @@
     - thomas@tuxpeople.org
   licenses:
     - MIT
+- repo: freebsd
+  srcname: sysutils/lazydocker
+  binname: lazydocker
+  visiblename: sysutils/lazydocker
+  version: 0.25.2
+  origversion: 0.25.2_1
+  status: newest
+  summary: Terminal UI for both docker and docker-compose
+  maintainers:
+    - jkh@freebsd.org
+  categories:
+    - sysutils
 - repo: alpine_3_18
   subrepo: community
   srcname: lazydocker
@@ -195,18 +207,18 @@
   origversion: null
   status: outdated
   summary: A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
-- repo: freebsd
-  srcname: sysutils/lazydocker
-  binname: lazydocker
-  visiblename: sysutils/lazydocker
-  version: 0.25.2
-  origversion: 0.25.2_1
-  status: newest
-  summary: Terminal UI for both docker and docker-compose
+- repo: nix_stable_25_05
+  srcname: lazydocker
+  visiblename: lazydocker
+  version: 0.24.1
+  origversion: null
+  status: outdated
+  summary: Simple terminal UI for both docker and docker-compose
   maintainers:
-    - jkh@freebsd.org
-  categories:
-    - sysutils
+    - nixpkgs@raphael.dasgupta.ch
+    - brightone@protonmail.com
+  licenses:
+    - MIT
 - repo: gentoo_ovl_guru
   srcname: app-containers/lazydocker
   visiblename: app-containers/lazydocker
@@ -331,28 +343,6 @@
     - MIT
   categories:
     - System/Configuration
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: lazydocker
-  binname: lazydocker
-  visiblename: lazydocker
-  version: 0.25.2
-  origversion: 0.25.2-1
-  status: newest
-  summary: A simple terminal UI for docker and docker-compose, written in Go with the gocui library.
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: lazydocker
-  binname: lazydocker
-  visiblename: lazydocker
-  version: 0.25.2
-  origversion: 0.25.2-1
-  status: newest
-  summary: A simple terminal UI for docker and docker-compose, written in Go with the gocui library.
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: lazydocker
@@ -380,18 +370,6 @@
   srcname: lazydocker
   visiblename: lazydocker
   version: 0.23.3
-  origversion: null
-  status: outdated
-  summary: Simple terminal UI for both docker and docker-compose
-  maintainers:
-    - nixpkgs@raphael.dasgupta.ch
-    - brightone@protonmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: lazydocker
-  visiblename: lazydocker
-  version: 0.24.1
   origversion: null
   status: outdated
   summary: Simple terminal UI for both docker and docker-compose
@@ -539,6 +517,15 @@
     - MIT
   categories:
     - extra/tool
+- repo: wakemeops
+  subrepo: devops
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.18.1
+  origversion: 0.18.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: void_x86_64
   subrepo: x86_64
   srcname: lazydocker
@@ -657,15 +644,6 @@
   visiblename: lazydocker
   version: 0.19.0
   origversion: 0.19.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: lazydocker
-  visiblename: lazydocker
-  version: 0.18.1
-  origversion: 0.18.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
