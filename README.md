@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 53,248 · **Forks**: 1,705 · **Open issues**: 424 · **Contributors**: 79
+- **Stars**: 53,263 · **Forks**: 1,705 · **Open issues**: 424 · **Contributors**: 79
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 195 · **Open PRs**: 103 · **Closed issues**: 218 · **Open issues**: 206 · **Commits**: 892
+- **Releases**: 47 · **Merged PRs**: 195 · **Open PRs**: 104 · **Closed issues**: 218 · **Open issues**: 206 · **Commits**: 892
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 4 | 0 | 3 | 0 |
-| last60d | 2026-09-05 | 0 | 0 | 7 | 0 | 7 | 0 |
-| 90d | 2026-08-06 | 0 | 0 | 11 | 1 | 10 | 0 |
-| last180d | 2026-05-08 | 0 | 0 | 26 | 1 | 14 | 0 |
-| 360d | 2025-11-09 | 5 | 9 | 56 | 13 | 37 | 17 |
-| last720d | 2024-11-14 | 7 | 11 | 82 | 27 | 76 | 44 |
+| 30d | 2026-10-06 | 0 | 0 | 5 | 0 | 3 | 0 |
+| last60d | 2026-09-06 | 0 | 0 | 7 | 0 | 7 | 0 |
+| 90d | 2026-08-07 | 0 | 0 | 12 | 1 | 10 | 0 |
+| last180d | 2026-05-09 | 0 | 0 | 27 | 1 | 14 | 0 |
+| 360d | 2025-11-10 | 5 | 9 | 57 | 13 | 37 | 17 |
+| last720d | 2024-11-15 | 7 | 11 | 83 | 27 | 75 | 44 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for lazydocker lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:44:48Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T08:14:00Z._
