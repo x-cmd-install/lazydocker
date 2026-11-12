@@ -1,3 +1,63 @@
+- repo: stalix
+  srcname: bin/lazy/docker
+  binname: bin/lazy/docker
+  visiblename: bin/lazy/docker
+  version: 0.25.2
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: chocolatey
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.23.3
+  origversion: null
+  status: outdated
+  summary: A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
+- repo: nix_stable_25_05
+  srcname: lazydocker
+  visiblename: lazydocker
+  version: 0.24.1
+  origversion: null
+  status: outdated
+  summary: Simple terminal UI for both docker and docker-compose
+  maintainers:
+    - nixpkgs@raphael.dasgupta.ch
+    - brightone@protonmail.com
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.25.2
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: slackbuilds
+  srcname: system/lazydocker
+  visiblename: system/lazydocker
+  version: 0.25.2
+  origversion: null
+  status: newest
+  maintainers:
+    - boxjake.romero@protonmail.com
+  categories:
+    - system
+- repo: chimera
+  subrepo: user
+  srcname: lazydocker
+  binname: lazydocker-doc
+  visiblename: lazydocker-doc
+  version: 0.25.2
+  origversion: 0.25.2-r3
+  status: newest
+  summary: TUI for docker resource visualization and management (documentation)
+  licenses:
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: lazydocker
@@ -74,6 +134,18 @@
   summary: Simple terminal UI for both docker and docker-compose
   maintainers:
     - thomas@tuxpeople.org
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: lazydocker
+  visiblename: lazydocker
+  version: 0.23.1
+  origversion: null
+  status: outdated
+  summary: A simple terminal UI for both docker and docker-compose
+  maintainers:
+    - nixpkgs@raphael.dasgupta.ch
+    - brightone@protonmail.com
   licenses:
     - MIT
 - repo: alpine_3_23
@@ -177,36 +249,30 @@
   summary: TUI for docker resource visualization and management
   licenses:
     - MIT
-- repo: chimera
-  subrepo: user
-  srcname: lazydocker
-  binname: lazydocker-doc
-  visiblename: lazydocker-doc
-  version: 0.25.2
-  origversion: 0.25.2-r3
-  status: newest
-  summary: TUI for docker resource visualization and management (documentation)
-  licenses:
-    - MIT
-- repo: chocolatey
-  binname: lazydocker
-  visiblename: lazydocker
-  version: 0.23.3
-  origversion: null
-  status: outdated
-  summary: A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
 - repo: freebsd
   srcname: sysutils/lazydocker
   binname: lazydocker
   visiblename: sysutils/lazydocker
   version: 0.25.2
-  origversion: 0.25.2_1
+  origversion: 0.25.2_2
   status: newest
   summary: Terminal UI for both docker and docker-compose
   maintainers:
     - jkh@freebsd.org
   categories:
     - sysutils
+- repo: nix_stable_24_11
+  srcname: lazydocker
+  visiblename: lazydocker
+  version: 0.23.3
+  origversion: null
+  status: outdated
+  summary: Simple terminal UI for both docker and docker-compose
+  maintainers:
+    - nixpkgs@raphael.dasgupta.ch
+    - brightone@protonmail.com
+  licenses:
+    - MIT
 - repo: gentoo_ovl_guru
   srcname: app-containers/lazydocker
   visiblename: app-containers/lazydocker
@@ -364,42 +430,6 @@
   summary: A simple terminal UI for docker and docker-compose, written in Go with the gocui library.
   licenses:
     - MIT
-- repo: nix_stable_24_05
-  srcname: lazydocker
-  visiblename: lazydocker
-  version: 0.23.1
-  origversion: null
-  status: outdated
-  summary: A simple terminal UI for both docker and docker-compose
-  maintainers:
-    - nixpkgs@raphael.dasgupta.ch
-    - brightone@protonmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: lazydocker
-  visiblename: lazydocker
-  version: 0.23.3
-  origversion: null
-  status: outdated
-  summary: Simple terminal UI for both docker and docker-compose
-  maintainers:
-    - nixpkgs@raphael.dasgupta.ch
-    - brightone@protonmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: lazydocker
-  visiblename: lazydocker
-  version: 0.24.1
-  origversion: null
-  status: outdated
-  summary: Simple terminal UI for both docker and docker-compose
-  maintainers:
-    - nixpkgs@raphael.dasgupta.ch
-    - brightone@protonmail.com
-  licenses:
-    - MIT
 - repo: nix_stable_25_11
   srcname: lazydocker
   visiblename: lazydocker
@@ -485,36 +515,6 @@
   summary: A simple terminal UI for docker and docker-compose, written in Go with the gocui library.
   licenses:
     - MIT
-- repo: scoop
-  subrepo: main
-  binname: lazydocker
-  visiblename: lazydocker
-  version: 0.25.2
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
-- repo: slackbuilds
-  srcname: system/lazydocker
-  visiblename: system/lazydocker
-  version: 0.25.2
-  origversion: null
-  status: newest
-  maintainers:
-    - boxjake.romero@protonmail.com
-  categories:
-    - system
-- repo: stalix
-  srcname: bin/lazy/docker
-  binname: bin/lazy/docker
-  visiblename: bin/lazy/docker
-  version: 0.25.2
-  origversion: null
-  status: newest
-  maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
 - repo: stalix_dev
   srcname: bin/lazy/docker
   binname: bin/lazy/docker
@@ -539,6 +539,15 @@
     - MIT
   categories:
     - extra/tool
+- repo: wakemeops
+  subrepo: devops
+  binname: lazydocker
+  visiblename: lazydocker
+  version: 0.18.1
+  origversion: 0.18.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: void_x86_64
   subrepo: x86_64
   srcname: lazydocker
@@ -657,15 +666,6 @@
   visiblename: lazydocker
   version: 0.19.0
   origversion: 0.19.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: lazydocker
-  visiblename: lazydocker
-  version: 0.18.1
-  origversion: 0.18.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
