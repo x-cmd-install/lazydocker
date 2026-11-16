@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 53,336 · **Forks**: 1,717 · **Open issues**: 424 · **Contributors**: 79
+- **Stars**: 53,346 · **Forks**: 1,718 · **Open issues**: 424 · **Contributors**: 79
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 4 | 0 | 1 | 1 |
-| last60d | 2026-09-16 | 0 | 0 | 8 | 0 | 6 | 1 |
-| 90d | 2026-08-17 | 0 | 0 | 12 | 1 | 10 | 1 |
-| last180d | 2026-05-19 | 0 | 0 | 28 | 1 | 14 | 1 |
-| 360d | 2025-11-20 | 4 | 6 | 55 | 9 | 36 | 13 |
-| last720d | 2024-11-25 | 5 | 10 | 83 | 26 | 72 | 44 |
+| 30d | 2026-10-17 | 0 | 0 | 4 | 0 | 1 | 1 |
+| last60d | 2026-09-17 | 0 | 0 | 8 | 0 | 6 | 1 |
+| 90d | 2026-08-18 | 0 | 0 | 12 | 1 | 10 | 1 |
+| last180d | 2026-05-20 | 0 | 0 | 26 | 1 | 14 | 1 |
+| 360d | 2025-11-21 | 4 | 6 | 55 | 9 | 36 | 13 |
+| last720d | 2024-11-26 | 5 | 10 | 83 | 26 | 72 | 43 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for lazydocker lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:01:43Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:50:23Z._
