@@ -30,8 +30,8 @@ x install lazydocker
 
 评分最低的几项:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (3/10) — Found 3/10 approved changesets -- score normalized to 3
+- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -47,7 +47,7 @@ x install lazydocker
 
 ## 流行度
 
-- **Star**: 53,346 · **Fork**: 1,718 · **开放 issue**: 424 · **贡献者**: 79
+- **Star**: 53,358 · **Fork**: 1,724 · **开放 issue**: 424 · **贡献者**: 79
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install lazydocker
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 4 | 0 | 1 | 1 |
-| last60d | 2026-09-17 | 0 | 0 | 8 | 0 | 6 | 1 |
-| 90d | 2026-08-18 | 0 | 0 | 12 | 1 | 10 | 1 |
-| last180d | 2026-05-20 | 0 | 0 | 26 | 1 | 14 | 1 |
-| 360d | 2025-11-21 | 4 | 6 | 55 | 9 | 36 | 13 |
-| last720d | 2024-11-26 | 5 | 10 | 83 | 26 | 72 | 43 |
+| 30d | 2026-10-18 | 0 | 0 | 3 | 0 | 1 | 1 |
+| last60d | 2026-09-18 | 0 | 0 | 8 | 0 | 6 | 1 |
+| 90d | 2026-08-19 | 0 | 0 | 12 | 1 | 10 | 1 |
+| last180d | 2026-05-21 | 0 | 0 | 26 | 1 | 14 | 1 |
+| 360d | 2025-11-22 | 4 | 6 | 55 | 9 | 36 | 13 |
+| last720d | 2024-11-27 | 5 | 10 | 83 | 26 | 71 | 43 |
 
 ## Release 资产
 
@@ -103,4 +103,4 @@ lazydocker 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T08:50:24Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T08:42:17Z._
