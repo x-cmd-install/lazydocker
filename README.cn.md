@@ -24,16 +24,6 @@ x install lazydocker
 | Sh | 1,417 | 175 | 115 | 17 |
 | Makefile | 324 | 23 | 98 | 7 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **3.2 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (3/10) — Found 3/10 approved changesets -- score normalized to 3
-- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/jesseduffield/lazydocker>
@@ -47,22 +37,22 @@ x install lazydocker
 
 ## 流行度
 
-- **Star**: 53,406 · **Fork**: 1,761 · **开放 issue**: 424 · **贡献者**: 79
+- **Star**: 53,417 · **Fork**: 1,766 · **开放 issue**: 424 · **贡献者**: 79
 
 ## 累计统计
 
-- **发布数**: 47 · **已合并 PR**: 195 · **开放 PR**: 105 · **已关闭 issue**: 218 · **开放 issue**: 206 · **提交数**: 893
+- **发布数**: 47 · **已合并 PR**: 195 · **开放 PR**: 106 · **已关闭 issue**: 218 · **开放 issue**: 206 · **提交数**: 893
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 2 | 0 | 1 | 1 |
-| last60d | 2026-09-24 | 0 | 0 | 7 | 0 | 5 | 1 |
-| 90d | 2026-08-25 | 0 | 0 | 10 | 1 | 8 | 1 |
-| last180d | 2026-05-27 | 0 | 0 | 25 | 1 | 14 | 1 |
-| 360d | 2025-11-28 | 4 | 5 | 53 | 7 | 36 | 12 |
-| last720d | 2024-12-03 | 5 | 10 | 83 | 26 | 70 | 43 |
+| 30d | 2026-10-25 | 0 | 0 | 3 | 0 | 1 | 1 |
+| last60d | 2026-09-25 | 0 | 0 | 8 | 0 | 5 | 1 |
+| 90d | 2026-08-26 | 0 | 0 | 11 | 1 | 8 | 1 |
+| last180d | 2026-05-28 | 0 | 0 | 26 | 1 | 14 | 1 |
+| 360d | 2025-11-29 | 4 | 5 | 53 | 7 | 36 | 12 |
+| last720d | 2024-12-04 | 5 | 10 | 84 | 26 | 69 | 43 |
 
 ## Release 资产
 
@@ -103,4 +93,4 @@ lazydocker 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T09:43:42Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T11:54:07Z._

@@ -24,16 +24,6 @@ Total: **315,888** lines of code across **1250** files in the top 5 languages.
 | Sh | 1,417 | 175 | 115 | 17 |
 | Makefile | 324 | 23 | 98 | 7 |
 
-## OpenSSF Scorecard
-
-Overall score: **3.2 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (3/10) — Found 3/10 approved changesets -- score normalized to 3
-- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## Source
 
 - **Upstream**: <https://github.com/jesseduffield/lazydocker>
@@ -47,22 +37,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 53,406 · **Forks**: 1,761 · **Open issues**: 424 · **Contributors**: 79
+- **Stars**: 53,417 · **Forks**: 1,766 · **Open issues**: 424 · **Contributors**: 79
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 195 · **Open PRs**: 105 · **Closed issues**: 218 · **Open issues**: 206 · **Commits**: 893
+- **Releases**: 47 · **Merged PRs**: 195 · **Open PRs**: 106 · **Closed issues**: 218 · **Open issues**: 206 · **Commits**: 893
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 2 | 0 | 1 | 1 |
-| last60d | 2026-09-24 | 0 | 0 | 7 | 0 | 5 | 1 |
-| 90d | 2026-08-25 | 0 | 0 | 10 | 1 | 8 | 1 |
-| last180d | 2026-05-27 | 0 | 0 | 25 | 1 | 14 | 1 |
-| 360d | 2025-11-28 | 4 | 5 | 53 | 7 | 36 | 12 |
-| last720d | 2024-12-03 | 5 | 10 | 83 | 26 | 70 | 43 |
+| 30d | 2026-10-25 | 0 | 0 | 3 | 0 | 1 | 1 |
+| last60d | 2026-09-25 | 0 | 0 | 8 | 0 | 5 | 1 |
+| 90d | 2026-08-26 | 0 | 0 | 11 | 1 | 8 | 1 |
+| last180d | 2026-05-28 | 0 | 0 | 26 | 1 | 14 | 1 |
+| 360d | 2025-11-29 | 4 | 5 | 53 | 7 | 36 | 12 |
+| last720d | 2024-12-04 | 5 | 10 | 84 | 26 | 69 | 43 |
 
 ## Release assets
 
@@ -103,4 +93,4 @@ Install metadata for lazydocker lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:43:41Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:54:06Z._
