@@ -24,6 +24,16 @@ Total: **315,888** lines of code across **1250** files in the top 5 languages.
 | Sh | 1,417 | 175 | 115 | 17 |
 | Makefile | 324 | 23 | 98 | 7 |
 
+## OpenSSF Scorecard
+
+Overall score: **3.2 / 10**
+
+Lowest-scoring checks:
+
+- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (3/10) — Found 3/10 approved changesets -- score normalized to 3
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/jesseduffield/lazydocker>
@@ -37,7 +47,7 @@ Total: **315,888** lines of code across **1250** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 53,466 · **Forks**: 1,770 · **Open issues**: 425 · **Contributors**: 79
+- **Stars**: 53,479 · **Forks**: 1,770 · **Open issues**: 425 · **Contributors**: 79
 
 ## Totals (cumulative)
 
@@ -47,12 +57,12 @@ Total: **315,888** lines of code across **1250** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 4 | 0 | 2 | 1 |
-| last60d | 2026-09-28 | 0 | 0 | 9 | 0 | 6 | 1 |
-| 90d | 2026-08-29 | 0 | 0 | 12 | 1 | 8 | 1 |
-| last180d | 2026-05-31 | 0 | 0 | 27 | 1 | 15 | 1 |
-| 360d | 2025-12-02 | 4 | 5 | 53 | 7 | 35 | 12 |
-| last720d | 2024-12-07 | 5 | 9 | 84 | 26 | 70 | 43 |
+| 30d | 2026-10-29 | 0 | 0 | 4 | 0 | 2 | 1 |
+| last60d | 2026-09-29 | 0 | 0 | 9 | 0 | 6 | 1 |
+| 90d | 2026-08-30 | 0 | 0 | 12 | 1 | 8 | 1 |
+| last180d | 2026-06-01 | 0 | 0 | 27 | 1 | 15 | 1 |
+| 360d | 2025-12-03 | 4 | 5 | 53 | 7 | 35 | 12 |
+| last720d | 2024-12-08 | 5 | 9 | 84 | 26 | 70 | 42 |
 
 ## Release assets
 
@@ -81,4 +91,4 @@ Install metadata for lazydocker lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:32:07Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:34:28Z._

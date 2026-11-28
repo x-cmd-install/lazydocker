@@ -24,6 +24,16 @@ x install lazydocker
 | Sh | 1,417 | 175 | 115 | 17 |
 | Makefile | 324 | 23 | 98 | 7 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **3.2 / 10**
+
+评分最低的几项:
+
+- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (3/10) — Found 3/10 approved changesets -- score normalized to 3
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/jesseduffield/lazydocker>
@@ -37,7 +47,7 @@ x install lazydocker
 
 ## 流行度
 
-- **Star**: 53,466 · **Fork**: 1,770 · **开放 issue**: 425 · **贡献者**: 79
+- **Star**: 53,479 · **Fork**: 1,770 · **开放 issue**: 425 · **贡献者**: 79
 
 ## 累计统计
 
@@ -47,12 +57,12 @@ x install lazydocker
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 4 | 0 | 2 | 1 |
-| last60d | 2026-09-28 | 0 | 0 | 9 | 0 | 6 | 1 |
-| 90d | 2026-08-29 | 0 | 0 | 12 | 1 | 8 | 1 |
-| last180d | 2026-05-31 | 0 | 0 | 27 | 1 | 15 | 1 |
-| 360d | 2025-12-02 | 4 | 5 | 53 | 7 | 35 | 12 |
-| last720d | 2024-12-07 | 5 | 9 | 84 | 26 | 70 | 43 |
+| 30d | 2026-10-29 | 0 | 0 | 4 | 0 | 2 | 1 |
+| last60d | 2026-09-29 | 0 | 0 | 9 | 0 | 6 | 1 |
+| 90d | 2026-08-30 | 0 | 0 | 12 | 1 | 8 | 1 |
+| last180d | 2026-06-01 | 0 | 0 | 27 | 1 | 15 | 1 |
+| 360d | 2025-12-03 | 4 | 5 | 53 | 7 | 35 | 12 |
+| last720d | 2024-12-08 | 5 | 9 | 84 | 26 | 70 | 42 |
 
 ## Release 资产
 
@@ -81,4 +91,4 @@ lazydocker 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T10:32:07Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T09:34:29Z._
